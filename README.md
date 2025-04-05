@@ -1,4 +1,4 @@
 # FirstRepository
-This is my fiirst Git Repository.
+This is my first Git Repository.
 <br>
 Author: Shikha Tiwari
